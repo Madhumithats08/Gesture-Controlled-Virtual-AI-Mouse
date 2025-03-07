@@ -1,0 +1,132 @@
+2025-02-22 17:47:43,236 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:47:44,294 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:47:45,367 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:51:35,534 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:51:38,240 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:51:40,474 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:51:41,886 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:24,217 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:25,782 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:26,835 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:29,888 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:30,980 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:33,134 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:36,896 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:40,225 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:41,362 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:42,440 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:52:43,536 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:54:06,352 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:03,387 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:04,968 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:06,063 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:11,441 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:13,731 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:14,812 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:17,707 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:18,794 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:19,874 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:28,282 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:42,650 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:43,757 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:49,186 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:52,426 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:53,544 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:54,661 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:56,474 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:57,687 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:58,780 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:55:59,890 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:29,378 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:33,827 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:34,912 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:41,279 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:45,779 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:51,392 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:52,609 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 17:59:52,657 - LEFT_CLICK -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - RIGHT_CLICK -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - DOUBLE_CLICK -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - SCREENSHOT -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - VOLUME_UP -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - VOLUME_DOWN -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - BRIGHTNESS_UP -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+2025-02-22 17:59:52,657 - BRIGHTNESS_DOWN -> Precision: 0.00, Recall: 0.00, F1-Score: 0.00, Accuracy: 0.00%
+LEFT_CLICK -> Accuracy: 0.00%
+RIGHT_CLICK -> Accuracy: 0.00%
+DOUBLE_CLICK -> Accuracy: 0.00%
+SCREENSHOT -> Accuracy: 0.00%
+VOLUME_UP -> Accuracy: 0.00%
+VOLUME_DOWN -> Accuracy: 0.00%
+BRIGHTNESS_UP -> Accuracy: 0.00%
+BRIGHTNESS_DOWN -> Accuracy: 0.00%
+2025-02-22 17:59:53,762 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:14,859 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:15,938 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:26,547 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:27,976 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:29,284 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:33,318 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:34,505 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:35,673 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:36,756 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:37,853 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:38,922 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:40,000 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:00:41,511 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:02,687 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:03,775 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:04,866 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:05,921 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:07,000 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:08,686 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:15,018 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:16,097 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:17,194 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:18,255 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:19,407 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:20,722 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:26,651 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:27,796 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:28,904 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:29,975 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:31,038 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:32,104 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:33,215 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:34,898 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:47,508 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:48,669 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:52,877 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:53,974 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:55,062 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:01:56,143 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:02,122 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:07,231 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:08,341 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:09,429 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:10,673 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:11,823 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:12,922 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:14,045 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:15,174 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:16,325 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:17,455 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:18,566 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:19,678 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:20,781 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:21,913 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:23,039 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:24,144 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:25,260 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:26,357 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:27,469 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:28,574 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:29,676 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:30,793 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:39,895 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:41,252 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:02:42,742 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:03:21,406 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:03:33,666 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:03:35,432 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2025-02-22 18:03:40,769 - exception parsing edid str for DISPLAY\LGD0613\4&1d40c88&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
